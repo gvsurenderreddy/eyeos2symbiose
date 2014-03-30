@@ -12,4 +12,4 @@ If you have an existing Symbiose users database and you don't want to override i
 
 Then, you can run the Python script `python eyeos2symbiose.py`. Python 3 is required.
 
-After that, two files are generated in `output/`. Copy it to `/var/lib/jsondb/core/` and youy're done!
+After that, two files are generated in `output/`. Copy it to `/var/lib/jsondb/core/` and you're done!
